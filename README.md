@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahadcmd
 - 👀 I’m interested in learning new trends and techniques.
-- 🌱 I’m currently learning Btech IT in CUSAT 
+- 🌱 I'm an Engineer Graduate specialised in IT. 
 
 
 <!---
