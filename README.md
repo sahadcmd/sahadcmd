@@ -1,5 +1,7 @@
 ❖ BTech Degree in Information Technology from Cochin University of Science And Technology.
+
 ❖ Proficient in HTML(5), CSS(3), JavaScript, Bootstrap, jQuery, and C programming.
+
 ❖ Self-learning developer with a passion for technology.
 
 ❖ Curious tech enthusiast, constantly exploring new advancements.
