@@ -1,4 +1,4 @@
-❖ BTech Degree in Information Technology from Cochin University of Science And Technology.
+❖ BTech Degree in Information Technology from CUSAT.
 
 ❖ Proficient in HTML(5), CSS(3), JavaScript, Bootstrap, jQuery, and C programming.
 
