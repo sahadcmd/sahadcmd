@@ -21,15 +21,13 @@
 
 ❖ Hello, and welcome to my GitHub profile! My name is Sahad Mahaboob and I am a self-motivated BTech IT graduate with a deep passion for coding and problem-solving.
 
-❖ Through practice and experimentation, I have honed my skills in programming languages like C, HTML, CSS, JavaScript, Bootstrap, and jQuery.
-
-❖ Proficient in HTML(5), CSS(3), JavaScript, Bootstrap, jQuery, and C programming.
+❖ Through practice and experimentation, I have honed my skills in programming languages like C programming, HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ❖ Leveraging my understanding of data structures and algorithms, I can design and implement efficient solutions to complex problems, ensuring optimized performance and scalability in my projects.
 
 ❖ As a lifelong learner, I remain committed to staying up-to-date with the latest technologies and industry trends, continually expanding my skills and exploring new advancements.
 
-❖ I am enthusiastic about contributing to open source projects, leveraging my skills and knowledge to make valuable contributions to the wider developer community.
+❖ I am enthusiastic about contributing to open source projects, If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:sahadmahaboob@gmail.com" target="_blank">sahadmahaboob@gmail.com</a>
 
 ❖ Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
 
