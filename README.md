@@ -7,7 +7,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="/files/mdImages/Linkedin.gif" target="_blank"></a>
-
+  <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="
 
 
 
