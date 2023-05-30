@@ -6,20 +6,32 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="/files/mdImages/Linkedin.gif" target="_blank"></a>
-  <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="
+  <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="./files/mdImages/Linkedin.gif" target="_blank"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="./files/mdImages/Twitter.gif" target="_blank"></a>
+</p>
+
+## <picture><img src = "./files/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./files/mdImages/programming.png" width=350px>
+</picture>
 
 
 
+❖ Hello, and welcome to my GitHub profile! My name is Sahad Mahaboob and I am a self-motivated BTech IT graduate with a deep passion for coding and problem-solving.
 
-❖ BTech Degree in Information Technology from CUSAT.
+❖ Through practice and experimentation, I have honed my skills in programming languages like C, HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ❖ Proficient in HTML(5), CSS(3), JavaScript, Bootstrap, jQuery, and C programming.
 
-❖ Self-learning developer with a passion for technology.
+❖ Leveraging my understanding of data structures and algorithms, I can design and implement efficient solutions to complex problems, ensuring optimized performance and scalability in my projects.
 
-❖ Curious tech enthusiast, constantly exploring new advancements.
+❖ As a lifelong learner, I remain committed to staying up-to-date with the latest technologies and industry trends, continually expanding my skills and exploring new advancements.
 
+❖ I am enthusiastic about contributing to open source projects, leveraging my skills and knowledge to make valuable contributions to the wider developer community.
+
+❖ Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
 
 <!---
 sahadcmd/sahadcmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
