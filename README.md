@@ -1,13 +1,12 @@
 <h1 align="center"><b>Hi , I'm Sahad Mahaboob P</b><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="38"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=70&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=40&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
 </p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="./files/mdImages/Linkedin.gif" target="_blank"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="./files/mdImages/Twitter.gif" target="_blank"></a>
 </p>
 
@@ -31,6 +30,11 @@
 
 ❖ Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
 
+❖ Thank you for visiting my profile, and I look forward to connecting with you!
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <!---
 sahadcmd/sahadcmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
