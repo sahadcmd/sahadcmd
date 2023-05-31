@@ -70,7 +70,27 @@
     &nbsp;
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<details>
+  <summary><h3>📊 Github Stats and Activity</h3></summary>
+    <p align="center"
+      <a href="https://github.com/sahadcmd">
+         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahadcmd&theme=tokyonight">
+      </a>
+    <a href="https://github.com/sahadcmd">
+      <img src="https://streak-stats.demolab.com?user=sahadcmd&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D">
+    </a>
+    <a href="https://github.com/sahadcmd">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahadcmd&theme=tokyonight">
+    </a>
+    </p>
+</details>
+<br>
+<hr>
+<h5 align="center">Connect with me!</h5>
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sahadmahaboobp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
 <!---
 sahadcmd/sahadcmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
