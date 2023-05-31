@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Sahad Mahaboob P</b><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="38"></h1>
+<h1 align="center"><b>Hi , I'm Sahad Mahaboob</b><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="38"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=40&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
@@ -6,7 +6,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="./files/mdImages/Linkedin.gif" target="_blank"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  &nbsp; &nbsp;
   <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="./files/mdImages/Twitter.gif" target="_blank"></a>
 </p>
 
@@ -18,23 +18,59 @@
 
 
 
-❖ Hello, and welcome to my GitHub profile! My name is Sahad Mahaboob and I am a self-motivated BTech IT graduate with a deep passion for coding and problem-solving.
+- Hello, and welcome to my GitHub profile! My name is Sahad Mahaboob and I am a self-motivated BTech IT graduate with a deep passion for coding and problem-solving.
 
-❖ Through practice and experimentation, I have honed my skills in programming languages like C programming, HTML, CSS, JavaScript, Bootstrap, and jQuery.
+- Through practice and experimentation, I have honed my skills in programming languages like C programming, HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
-❖ Leveraging my understanding of data structures and algorithms, I can design and implement efficient solutions to complex problems, ensuring optimized performance and scalability in my projects.
+- Leveraging my understanding of data structures and algorithms, I can design and implement efficient solutions to complex problems, ensuring optimized performance and scalability in my projects.
 
-❖ As a lifelong learner, I remain committed to staying up-to-date with the latest technologies and industry trends, continually expanding my skills and exploring new advancements.
+- As a lifelong learner, I remain committed to staying up-to-date with the latest technologies and industry trends, continually expanding my skills and exploring new advancements.
 
-❖ I am enthusiastic about contributing to open source projects, If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:sahadmahaboob@gmail.com" target="_blank">sahadmahaboob@gmail.com</a>
+- I am enthusiastic about contributing to open source projects, If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:sahadmahaboob@gmail.com" target="_blank">sahadmahaboob@gmail.com</a>
 
-❖ Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
+- Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
 
-❖ Thank you for visiting my profile, and I look forward to connecting with you!
+- Thank you for visiting my profile, and I look forward to connecting with you!
 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
+- **👨‍💻 Languages**
+
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    &nbsp;
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    &nbsp;
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    &nbsp;
+    
+- **🖥 Front-end Development**
+
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    &nbsp;
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   
+- **🧰 Frameworks and Libraries**
+
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    &nbsp;
+   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+    &nbsp;
+   
+- **🗄️ Cloud Hosting**
+
+   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+   
+- **💻 Software and Tools**
+   
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    &nbsp;
+   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+    &nbsp;
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 <!---
 sahadcmd/sahadcmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
