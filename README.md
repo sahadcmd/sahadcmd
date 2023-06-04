@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sahad Mahaboob</b><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="38"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=40&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=40&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing titles" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
