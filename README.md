@@ -30,6 +30,8 @@
 
 - Ultimately, my goal is to continually grow as a developer, refining my skills and expanding my knowledge base. I am excited about the possibilities that programming offers and eagerly embrace new challenges and opportunities.
 
+- To discover more about me and explore my body of work, please visit my <a href="https://sahadcmd.github.io/Portfolio/" target="_blank">personal portfolio.</a>
+
 - Thank you for visiting my profile, and I look forward to connecting with you!
 
 
@@ -61,6 +63,8 @@
 - **🗄️ Cloud Hosting**
 
    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    &nbsp;
+   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
    
 - **💻 Software and Tools**
    
