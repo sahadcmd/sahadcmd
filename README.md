@@ -10,6 +10,7 @@
   <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="./files/mdImages/Twitter.gif" target="_blank"></a>
 </p>
 
+<!-- About me section -->
 ## <picture><img src = "./files/mdImages/about_me.gif" width = 50px></picture> **About me**
 <picture>
   <source media="(max-width: 767px)" srcset="">
