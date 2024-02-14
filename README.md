@@ -21,7 +21,7 @@
 
 - Hello, and welcome to my GitHub profile! My name is Sahad Mahaboob and I am a self-motivated BTech IT graduate with a deep passion for coding and problem-solving.
 
-- Through practice and experimentation, I have honed my skills in programming languages like C programming, HTML, CSS, JavaScript, TypeScript, Bootstrap, jQuery and React.
+- Through practice and experimentation, I have honed my skills in programming languages like C programming, HTML, CSS, JavaScript, TypeScript, React, Bootstrap, jQuery and Angular.
 
 - Leveraging my understanding of data structures and algorithms, I can design and implement efficient solutions to complex problems, ensuring optimized performance and scalability in my projects.
 
@@ -41,14 +41,10 @@
 
 - **👨‍💻 Languages**
 
-   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    &nbsp;
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    &nbsp;
-   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-    &nbsp;
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    &nbsp;
+   * `C`
+   * `JavaScript`
+   * `TypeScript`
+   * `Python`
     
 - **🖥 Front-end Development**
 
