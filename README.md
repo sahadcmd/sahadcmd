@@ -48,39 +48,30 @@
     
 - **🖥 Front-end Development**
 
-   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    &nbsp;
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   * `HTML`
+   * `CSS`
    
 - **🧰 Frameworks and Libraries**
 
-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    &nbsp;
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    &nbsp;
-   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-    &nbsp;
+   * `React`
+   * `Angular`
+   * `Bootstrap`
+   * `jQuery`
    
    
 - **🗄️ Cloud Hosting**
 
-   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    &nbsp;
-   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-    &nbsp;
-   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+   * `Github Pages`
+   * `Vercel`
+   * `Netlify` 
    
 - **💻 Software and Tools**
-   
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    &nbsp;
-   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-    &nbsp;
-   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    &nbsp;
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    &nbsp;
-   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+   * `Visula Studio Code`
+   * `Git`
+   * `PyCharm`
+   * `Linux`
+   * `Canva`
 
 <!--Stats-->
 <details>
@@ -104,7 +95,3 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
-<!---
-sahadcmd/sahadcmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
