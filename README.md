@@ -3,12 +3,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D8FE1&center=true&vCenter=true&width=500&height=40&lines=BTech+IT+Graduate;Self-learning+Developer;Curious+tech+enthusiast;Love+to+learn+new+stuffs...%3C3" alt="Typing titles" /></a>
 </p>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahadmahaboobp"><img width="35px" alt="LinkedIn" title="LinkedIn" src="./files/mdImages/Linkedin.gif" target="_blank"></a>
-  &nbsp; &nbsp;
-  <a href="https://twitter.com/sahadmahaboob"><img width="35px" alt="Twitter" title="Twitter" src="./files/mdImages/Twitter.gif" target="_blank"></a>
-</p>
 
 <!-- About me section -->
 ## <picture><img src = "./files/mdImages/about_me.gif" width = 50px></picture> **About me**
