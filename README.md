@@ -41,37 +41,24 @@
 
 - **👨‍💻 Languages**
 
-   * `C`
-   * `JavaScript`
-   * `TypeScript`
-   * `Python`
+    `C`&nbsp; `JavaScript`&nbsp; `TypeScript`&nbsp; `Python`
     
 - **🖥 Front-end Development**
 
-   * `HTML`
-   * `CSS`
+  `HTML`&nbsp; `CSS`
    
 - **🧰 Frameworks and Libraries**
 
-   * `React`
-   * `Angular`
-   * `Bootstrap`
-   * `jQuery`
+  `React`&nbsp; `Angular`&nbsp; `Bootstrap`&nbsp; `jQuery`
    
    
 - **🗄️ Cloud Hosting**
 
-   * `Github Pages`
-   * `Vercel`
-   * `Netlify` 
+  `Github Pages`&nbsp; `Vercel`&nbsp; `Netlify` 
    
 - **💻 Software and Tools**
 
-   * `Visula Studio Code`
-   * `Git`
-   * `PyCharm`
-   * `Linux`
-   * `Canva`
+  `Visula Studio Code`&nbsp; `Git`&nbsp; `PyCharm`&nbsp; `Linux`&nbsp; `Canva`
 
 <!--Stats-->
 <details>
