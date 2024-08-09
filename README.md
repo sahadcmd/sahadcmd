@@ -52,7 +52,7 @@
    
 - **💻 Software and Tools**
 
-  `Visula Studio Code`&nbsp; `Git`&nbsp; `PyCharm`&nbsp; `Linux`&nbsp; `Canva`
+  `Visula Studio Code`&nbsp; `Git`&nbsp; `Bitbucket`&nbsp; `PyCharm`&nbsp; `Linux`&nbsp; `Canva`
 
 <!--Stats-->
 <details>
