@@ -35,7 +35,7 @@
 
 - **👨‍💻 Languages**
 
-    `C`&nbsp; `JavaScript`&nbsp; `TypeScript`&nbsp; `Python`&nbsp; `Dart`
+    `C`&nbsp; `JavaScript`&nbsp; `TypeScript`&nbsp; `Python`&nbsp; `PHP`&nbsp; `Dart`
     
 - **🖥 Front-end Development**
 
@@ -43,7 +43,7 @@
    
 - **🧰 Frameworks and Libraries**
 
-  `React`&nbsp; `Angular`&nbsp; `Flutter`&nbsp; `Bootstrap`&nbsp; `jQuery`
+  `React`&nbsp; `Angular`&nbsp; `Flutter`&nbsp; `Laravel`&nbsp; `Bootstrap`&nbsp; `jQuery`
    
    
 - **🗄️ Cloud Hosting**
